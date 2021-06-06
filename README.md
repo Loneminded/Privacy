@@ -1,5 +1,6 @@
 # Privacy
 Privacy Policy
+
 This policy applies to Loneminded.com and Loneminded applications.
 
 Information we collect
